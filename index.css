@@ -74,6 +74,31 @@ button:hover{
     background-color: rgb(255, 0, 0);
 }
 
+/*responsiveness*/
+@media screen and (max-width: 600px) {
+
+
+.container{
+width: 350px;
+font-size: 12px;
+    }
+
+    input{
+        width: 20px;
+        font-size: medium;
+        font-weight: 300;
+    }
+
+    .output{
+        padding-top: 5px;
+        
+    }
+    button{
+        width: 80px;
+        font-size: 12px;
+    }
+}
+
 
 
 

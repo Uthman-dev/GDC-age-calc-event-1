@@ -12,7 +12,7 @@ function calculateAge() {
 
   if (day < 1 || day > 31) {
     alert("Day must be between 1 and 31.");
-    return;111111111111111111
+    return;
   }
 
   if (day < 0 || year > 2024) {
